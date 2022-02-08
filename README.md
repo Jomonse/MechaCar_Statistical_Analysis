@@ -29,3 +29,19 @@ In some part, but it could be better, becuase only the 71% of the variability co
 ![imagen](https://user-images.githubusercontent.com/21062253/150087890-83a05845-4866-4fad-80ab-8a63c4ead439.png)
 
 The ANOVA Test confirm us that the variables with non-random amount of variance are vehicle length and ground_clarance, and with the shapiro test we could see that the are not strange data detected
+
+# Deliverable 2
+## Create Visualizations for the Trip Analysis
+After testing the weight capacities of multiple suspension coils to determine if the manufacturing process is consistent across production lots it is necessary to check these results using the continuous variable PSI.
+
+![Deliverable 2 summary](https://user-images.githubusercontent.com/21062253/152916722-696f1c46-351e-4b8d-ba77-74bc7c425cf3.png)
+
+When we can see that the mean is near the median, so we can say thaht the data is normally distribuited, also the standar deviation is low so we can assume that de data is more reliable and probes that the data are clustered closely around the mean.
+
+In addition, in general, it is necessary to show the results of the continuous variable PSI divided into each of the batches of the 3 batches according to their type of manufacture.
+
+![Deliverable 2 lot_summary](https://user-images.githubusercontent.com/21062253/152917856-f40b08a1-2d3e-4549-8357-aad5587d1073.png)
+
+Where we can see that the lot3 presents more disppersion in de data and is less reliable due to it has a high variance that indicates that the data points are very spread out from the mean.
+
+
