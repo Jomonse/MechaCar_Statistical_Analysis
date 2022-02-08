@@ -44,4 +44,30 @@ In addition, in general, it is necessary to show the results of the continuous v
 
 Where we can see that the lot3 presents more disppersion in de data and is less reliable due to it has a high variance that indicates that the data points are very spread out from the mean.
 
+# Deliverable 3
+## T-Tests on Suspension Coils
+
+to verify that the lot3 is the only one different from lot1 and lot2, and the only one that present variability in their data, it is necessary to made a T test to see if  all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+![Deliverable 3 T-Test](https://user-images.githubusercontent.com/21062253/152918645-b480deeb-8ebb-4fe1-b85e-d219c9fb5f3c.png)
+
+Where we can see that the are not significant statistical evidence to reject Lot1 or Lot 2, but we can reject lot 3.
+
+# Deliverable 4
+## Design a Study Comparing the MechaCar to the Competition
+### Diseño del estudio: MechaCar vs Competición
+
+For business purposes, it is necessary to carry out a study on how the MechaCar performs against the competition, for this it is necessary to prove that MechaCar produces less product waste compared to the competition. 
+
+1. What metric or metrics are you going to test?
+Amount of flash produced per manufacturing lot
+2. What is the null hypothesis or alternative hypothesis?
+H0: MechaCar mean = Competition mean
+Ha:MechaCar mean /= Competition mean
+3. What statistical test would you use to test the hypothesis? And why?
+T-Test, because it is used used to determine if there is a significant difference between the means of two groups
+4. What data is needed to run the statistical test?
+A small amount of burr produced per production lot
+
+And if the result is different, we only have to see what mean is lower
 
